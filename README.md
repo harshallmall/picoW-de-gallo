@@ -20,4 +20,4 @@ Raspberry Pi Pico W and Pico H projects on MicroPython
 ## (4) Pico H LED Traffic Light
 - Use Pico H and MicroPython to control three distinctly colored LEDs and emit light at specified times.
 - Code is used to program the Pico to control the GPIO pins on the breadboard to output a signal to emit light from each LED.
-- Code is used to create a loop that controls the time each LED is on and off in succession, to model a traffic light.
+- Code is used to create a loop that controls the time each LED is on and off in succession, a la a traffic light.
