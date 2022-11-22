@@ -1,2 +1,2 @@
 # picoW-de-gallo
-Pico W and Pico H projects on Micropython
+Raspberry Pi Pico W and Pico H projects on MicroPython
